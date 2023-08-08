@@ -1,7 +1,5 @@
 # Pratice _RePO
 
-This is my practice Repository for udemy tutorial!!
+This is my practice Repository for Udemy tutorial!!
 
-
-
-Fskjdfjskdfjksfsad
+Hahah
